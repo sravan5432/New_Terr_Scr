@@ -1,2 +1,2 @@
-# New_Terr_Scr
-Scripts
+# azure-terraform-beginners
+Beginners Guide to Terraforming Azure
